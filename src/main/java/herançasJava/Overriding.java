@@ -2,6 +2,7 @@ package herançasJava;
 
 class Bixo2 {
     public void fazerSom(){
+
         System.out.println("Animal faz som");
     }
 }
